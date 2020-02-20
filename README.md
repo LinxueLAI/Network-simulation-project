@@ -1,4 +1,4 @@
-<h1>Projet-Software</h1>
+<h1>Projet-Network simulation software</h1>
 
-Chef de Projet : Paul Artigouha ; Rédacteur : Antoine Quillivic
-https://drive.google.com/drive/folders/12IhAbr4S_IwZnRPNKMbXTWmCNLdjWFf5?usp=sharing
+Objective of the project :
+    We want to make a generic product that allows network management. This product will be applicable on several types of networks (computer network, road network, social network, etc.) We also want to implement it on an example of networks and develop a user interface that facilitates access to these features.
