@@ -1,14 +1,16 @@
 <h1>Projet-Network simulation software</h1>
-1) Context and definition of the problem
+
+1. Context and definition of the problem
+    
     Networks have many forms (electrical, road, social, administrative, urban, cerebral, logistics, organic, etc.). The management of these networks generates many positions which, although scattered in various fields, share important similarities.
     The ambition is to meet the representation needs of these networks, both in the generality of the basic principles and in the specifications specific to each. In this way, it is possible to pool the resources and challenges of professional players for the development of a powerful software tool.
     What is more, a common solution will be a good basis of exchange between the different users. They will then be able to share their experiences and enrich their technical skills, both in terms of software and networks.
 One of the main motivations of this project is to realize a solution which can suit a large panel of different networks.
 
-2) Objective of the project :
+2. Objective of the project :
     We want to make a generic product that allows network management. This product will be applicable on several types of networks (computer network, road network, social network, etc.) We also want to implement it on an example of networks and develop a user interface that facilitates access to these features.
 
-3) Functions implemented :
+3. Functions implemented :
     Version 1 (Implementation of a network framework) 
     - User interface allowing the visualization of the network 
     - Add / Remove a node with the following characteristics 
@@ -46,7 +48,7 @@ One of the main motivations of this project is to realize a solution which can s
         - self-determination of the shortest route or faster depending on departure and arrival 
         - manage inter-object interactions 
      
-4) Possible perspectives:
+4. Possible perspectives:
      Version 4 (Development of the hospital network) 
      - Add / Remove the following objects: 
         - Nurses 
